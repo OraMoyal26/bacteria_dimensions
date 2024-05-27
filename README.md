@@ -2,7 +2,8 @@ This project focuses on the estimation of bacterial dimensions in SEM images, in
 <br>
 
 ### First step - Object detection:
-model training for prediction- We trained a Faster-R-CNN model. This model  is based on TensorFlow's notebook. It trains the model using the train and validation images (JPG format) and annotation files (JSON format). It also saves the trained model for future use. <br>
+<br>
+Model training for prediction- We trained a Faster-R-CNN model. This model  is based on TensorFlow's notebook. It trains the model using the train and validation images (JPG format) and annotation files (JSON format). It also saves the trained model for future use. <br>
 The training process is in the Bacteria_FasterRCNN.ipynb file.<br>
 data: 
 3 folders of images for train, validation and test + annotation files: https://drive.google.com/drive/folders/1GnZJSlIcUDRSqGbOa4IEB5HY2MVzWf1E?usp=drive_link <br>
