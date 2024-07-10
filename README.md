@@ -10,7 +10,7 @@ The training process is in the Bacteria_FasterRCNN.ipynb file.
 <br>
 * [images for train, validation and test + annotation files](https://drive.google.com/drive/folders/1GnZJSlIcUDRSqGbOa4IEB5HY2MVzWf1E?usp=drive_link)
 
-The annotation files were created by RoboFlow website.
+The annotation files were created by [RoboFlow website](https://roboflow.com/).
 <br>
 **Object detection-** We used the trained model to detect the bacterial cells and create an annotation file (CSV) and images with bounding boxes(JPG).
 <br>
