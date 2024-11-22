@@ -1,5 +1,8 @@
 This project focuses on the estimation of bacterial dimensions in SEM images, in order to distinguish between acidic bacteria and control bacteria.
 
+Link to SEM images of Lactiplantibacillus plantarum bacteria: [here](https://drive.google.com/file/d/1-2EqEoj4c0W9IlvNBx8njwtkgMKH2O2N/view?usp=drive_link)
+
+
 ### First step - Object detection:
 
 **Model training for prediction-**  We trained a Faster-R-CNN model so that it could predict the location of the bacteria in the images. This model  is based on TensorFlow's notebook. It trains the model using the train and validation images (JPG format) and annotation files (JSON format). It also saves the trained model for future use. 
